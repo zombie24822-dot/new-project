@@ -1,0 +1,20 @@
+git status
+git add _____ file name
+git commit -m   -> to add notes -> i changed it into cm
+git reset -> to get back one step
+git push origin to 'branch'
+git pull -> to get the files from github to PC
+git init -> to start the repo 
+git config --global alias.__     -> to make a shortcut for a command
+git checkout -> for entering any branch
+git restore --staged _____ -> for taking out of the repo
+
+
+
+ssh keygen -t rsa -b 4096 -C "gmail.com" -> to creat a key password to your repo
+
+
+
+
+
+function touch { New-Item -ItemType File -Path $args }
